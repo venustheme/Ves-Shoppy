@@ -1,14 +1,12 @@
-# VES FASONY MAGENTO 2	
+# VES SHOPPY	
 
-## Magento 2 Free Template for Men and Women Fashion store, bags and watches
+Are you seeking free highly advanced quality magento sample for online clothing store? Today Venustheme offer you our Ves Shoppy – Best free magento themes 1.9 are ready to download.
 
-Fasony is a new free magento 2 theme to download. It features stunning premade layout that is designed in customer-oriented way. Thus, you can display your products in the best way.
+Ves Shoppy is prominent with advanced theme setting, fully responsive design, Base on RWD theme + bootstrap 3.x, Product list by rules, Sass + Sass Fallback Structure, Ves Theme Setting, Ves Mega Menu, Ves Brand, Ajax Add to cart, Quick view Product, Color Swatches, Google font, Multilingual & RTL Ready, New Web Technology, Rich Snippets, Mobile Friendly Ready.
 
-This free magento 2 theme is build with Bootstrap 3.x and compatible with the latest magento version. Especially, image slider is run by owl carousel that are optimized for touch drag n drop.
+Being built on new amazing framework, Ves Shoppy definitely impress you. This theme has less custom code, css and module to make sure that it is fast and easy to use.
 
-Believe in us and take a look at the demo to see how great it is!
-
-* This theme is compatiable with Magento 2!!!! * Please give us your review. If you love it !!!!
+Last but not least, we offer you quickstart package that allow you to install in few minutes. Auto sample data installation empowers you to replicate our demo site in your existing Magento site easily. In order get the newest version, please don’t forget to come back frequently to download the latest one for free
 
 
 ## 1. Documentation
